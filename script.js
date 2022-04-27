@@ -1,9 +1,9 @@
 var vote_n = 0;
 function redirect_a() {
-  window.location = "https://searingraptor32.github.io/ocean_resort/index.html";
+  window.location = "https://searingraptor32.github.io/travel-agency/index.html";
 }
 function redirect_b() {
-  window.location = "https://searingraptor32.github.io/ocean_resort/about.html";
+  window.location = "https://searingraptor32.github.io/travel-agency/about.html";
 }
 function upvote() {
   vote_n = vote_n + 1;
