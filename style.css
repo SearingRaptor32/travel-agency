@@ -1,9 +1,9 @@
 body {
-    background-color: rgb(163, 228, 224);
+    background-color: rgb(144, 179, 176);
   }
   
   h1 {
-    color: rgb(163, 154, 103);
+    color: rgb(216, 203, 130);
     text-align: center;
   }
 
@@ -55,5 +55,5 @@ body {
   
   .btn.active {
     background-color: #666;
-    color: rgb(143, 143, 143);
+    color: rgb(233, 220, 148);
   }
