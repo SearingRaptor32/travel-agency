@@ -3,7 +3,12 @@ body {
   }
   
   h1 {
-    color: rgb(233, 221, 156);
+    color: rgb(163, 154, 103);
+    text-align: center;
+  }
+
+  h3 {
+    color: rgb(79, 90, 87);
     text-align: center;
   }
   
@@ -37,7 +42,7 @@ body {
     border: none;
     outline: none;
     padding: 10px 16px;
-    background-color: #f1f1f1;
+    background-color: #6b6b6b;
     cursor: pointer;
     font-size: 18px;
     margin:0 auto;
@@ -45,10 +50,10 @@ body {
   }
   
   .btn:hover {
-    background-color: #ddd;
+    background-color: rgb(138, 138, 138);
   }
   
   .btn.active {
     background-color: #666;
-    color: white;
+    color: rgb(143, 143, 143);
   }
