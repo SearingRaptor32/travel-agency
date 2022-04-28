@@ -3,7 +3,7 @@ body {
   }
   
   h1 {
-    color: rgb(241, 223, 117);
+    color: rgb(233, 221, 156);
     text-align: center;
   }
   
@@ -40,6 +40,8 @@ body {
     background-color: #f1f1f1;
     cursor: pointer;
     font-size: 18px;
+    margin:0 auto;
+    display:block;
   }
   
   .btn:hover {
