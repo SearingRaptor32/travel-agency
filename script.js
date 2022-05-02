@@ -26,4 +26,4 @@ for (i = 0; i < elements.length; i++) {
     elements[i].style.flex = "20%";
 }
 
-document.getElementsByClassName("logo").style.flex = "20%";
+document.getElementsByClassName("logo").style.flex = "35%";
