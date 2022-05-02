@@ -1,4 +1,4 @@
-var vote_n = 0;
+var vote_n = 100;
 function redirect_a() {
   window.location = "https://searingraptor32.github.io/travel-agency/";
 }
