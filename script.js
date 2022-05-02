@@ -25,5 +25,3 @@ for (i = 0; i < elements.length; i++) {
     elements[i].style.msFlex = "20%";  // IE10
     elements[i].style.flex = "20%";
 }
-
-document.getElementsByClassName("logo").style.flex = "35%";
